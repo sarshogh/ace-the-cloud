@@ -13,8 +13,8 @@ the IAM User with accesskey/secretkey or sso profile needed
 
 ### Versions
 
-`terraform 0.13+`
-`terraform aws provider 6.3.0`
+`terraform 0.13+`.  
+`terraform aws provider 6.3.0`. 
 
 
 #### Bootstrap account 

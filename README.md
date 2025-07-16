@@ -7,7 +7,7 @@ no AI used !
 
 
 # tech stack 
-- terraform & terragrunt
+- terraform. 
     - boostrap layers such as IAMs, buckets and dynamodb for tf state
     - network layer
     - cluster level 
